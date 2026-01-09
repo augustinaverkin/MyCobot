@@ -11,3 +11,8 @@ Record - pilnas judesio įrašymas (nėra pilnai išpildytas)
 Record Main steps - tarpinių judesių įrašymas, kuriems vėliau taikoma interpoliacija) aktyvavus šį rėžimą judesiai įrašomi pasirenkant Mark step (keyframe) - tokiu būdu įrašomi pagrindiniai taškai, o tarpinės pozicijos apskaičiuojamos
 Vacuum ON, Vacuum OFF - vakuuminio gripperio aktyvavymo įrašymas
 
+# Cube_detection_pickup
+Roboto ir kameros setupo pavyzdys su blokų paėmimo ir perkėlimo veiksmais.
+
+# MyBlockly
+Patogesnį Python interface galima atsisiųsti per https://www.elephantrobotics.com/en/downloads/ MyBlockly.
